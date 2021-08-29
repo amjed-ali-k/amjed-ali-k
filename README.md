@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+- 🔭 I’m currently working on diffrent React Native Projects
+- 🌱 I’m currently learning Data Science
+- 👯 I’m looking to collaborate on any Front-End and Back-end projects using React, React Native, Fast API, Flask...
+- 📫 How to reach me: Telegram: t.me/amjed_ali_k, @amjed_ali_k
 <!--
 **amjed-ali-k/amjed-ali-k** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

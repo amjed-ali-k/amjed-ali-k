@@ -1,8 +1,9 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on diffrent React Native Projects
+- 🔭 I’m currently working on different React Native Projects
 - 🌱 I’m currently learning Data Science
 - 👯 I’m looking to collaborate on any Front-End and Back-end projects using React, React Native, Fast API, Flask...
+- 😄 Ask me about React, Gatsby, React Native, Flask, FastAPI, Scarelette, Pydantic, Typescript, SASS, Embedded C, AVR Assembly Language
 - 📫 Reach me in Telegram: [@amjed_ali_k](https://t.me/amjed_ali_k/)
 
 <!--

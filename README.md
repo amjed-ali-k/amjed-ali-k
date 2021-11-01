@@ -22,3 +22,4 @@ Here are some ideas to get you started:
 -->
 ![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=amjed-ali-k&theme=dracula)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=amjed-ali-k&theme=dracula)
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=amjed-ali-k&theme=dracula)

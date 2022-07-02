@@ -31,6 +31,4 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=amjed-ali-k&theme=dark" alt="amjed-ali-k" /></p>
 
-![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=amjed-ali-k&theme=dracula)
-![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=amjed-ali-k&theme=dracula)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=amjed-ali-k&theme=dracula)

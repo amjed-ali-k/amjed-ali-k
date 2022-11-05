@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Amjed Ali</h1>
+<h1 align="center">Hi 👋, I'm Amju</h1>
 <h3 align="center">A passionate embedded system enthusiast, with web development experience.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=amjed-ali-k&label=Lucky%20number&color=7300a8&style=flat" alt="amjed-ali-k" /> </p>

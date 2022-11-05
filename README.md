@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=amjed-ali-k&label=Lucky%20number&color=7300a8&style=flat" alt="amjed-ali-k" /> </p>
 
-<p align="left"> <a href="https://twitter.com/amjed_ali_k" target="blank"><img src="https://img.shields.io/twitter/follow/amjed_ali_k?logo=twitter&style=for-the-badge" alt="amjed_ali_k" /></a> </p>
-
 - 🌱 I’m currently learning **AI, Data science**
 
 - 👯 I’m looking to collaborate on **react, react native, embedded, fastapi projects**
@@ -27,7 +25,6 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=amjed-ali-k&show_icons=true&theme=dark&locale=en&layout=compact" alt="amjed-ali-k" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=amjed-ali-k&show_icons=true&theme=dark&locale=en" alt="amjed-ali-k" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=amjed-ali-k&theme=dark" alt="amjed-ali-k" /></p>
 

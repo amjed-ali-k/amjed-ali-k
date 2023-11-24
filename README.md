@@ -1,11 +1,10 @@
 <h1 align="center">Hi 👋, I'm Amju</h1>
 <h3 align="center">A simple fullstack developer.</h3>
+<p align="center"> 
+<i align="center">:unicorn: Javascript whisperer by day, :art: unicorn doodler by night - wields mighty :sparkles: React spells :magic_wand: to sling :boom: code into submission while dreaming up next avant-garde 🖼️ masterpiece.</i></p>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=amjed-ali-k&label=Lucky%20number&color=7300a8&style=flat" alt="amjed-ali-k" /> </p>
 
-- 👯 I’m looking to collaborate on **react, react native, embedded, fastapi projects**
-
-- 📫 How to reach me **amjedmgm@gmail.com**
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=amjed-ali-k&label=Profile%20visits&color=7300a8&style=flat" alt="amjed-ali-k" /> </p>
 
 
 ## 🌐 Socials

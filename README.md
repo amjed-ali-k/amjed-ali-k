@@ -1,5 +1,6 @@
-<h1 align="center">Hi 👋, I'm Amju</h1>
-<h3 align="center">A simple fullstack developer.</h3>
+![1500x500](https://github.com/user-attachments/assets/270ff643-73f9-44bf-be29-89e40adae477)
+
+<h3 align="center">Hi 🫶. I'm Amju. A simple fullstack developer.</h3>
 <p align="center"> 
 
 
